@@ -1,9 +1,9 @@
 # JaavFxPrjoects in one 
 
-##Solar system 
+## Solar system 
 
-##Traffic billiard model 
+## Traffic billiard model 
 
-##Building design 
+## Building design 
 
-##Animated movable  box
+## Animated movable  box
